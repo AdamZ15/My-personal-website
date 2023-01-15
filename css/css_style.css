@@ -1,0 +1,18 @@
+body
+{
+background-color: #7B241C;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p
+{
+  margin-right: 80px; 
+  margin-left: 80px;
+}
+
+
